@@ -1,0 +1,9 @@
+C:\ActioNet\ProductRepository Migration\bin\Debug\ProductRepository Migration.exe
+C:\ActioNet\ProductRepository Migration\bin\Debug\ProductRepository Migration.pdb
+C:\ActioNet\ProductRepository Migration\obj\x86\Debug\ProductRepository Migration.csprojResolveAssemblyReference.cache
+C:\ActioNet\ProductRepository Migration\obj\x86\Debug\ProductRepository_Migration.CreateFlatKeywordsTable.resources
+C:\ActioNet\ProductRepository Migration\obj\x86\Debug\ProductRepository_Migration.Form1.resources
+C:\ActioNet\ProductRepository Migration\obj\x86\Debug\ProductRepository_Migration.Properties.Resources.resources
+C:\ActioNet\ProductRepository Migration\obj\x86\Debug\ProductRepository Migration.csproj.GenerateResource.Cache
+C:\ActioNet\ProductRepository Migration\obj\x86\Debug\ProductRepository Migration.exe
+C:\ActioNet\ProductRepository Migration\obj\x86\Debug\ProductRepository Migration.pdb
